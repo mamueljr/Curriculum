@@ -40,6 +40,13 @@ section {
     background-position: center;
 }
 
+.hero .imgRedonda {
+    width: 300px;
+    height: 300px;
+    border-radius: 160px;
+    border: 10px solid #666;
+}
+
 .hero .content {
     background: rgba(0, 0, 0, 0.5);
     width: 100%;
