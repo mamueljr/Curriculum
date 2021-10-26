@@ -569,7 +569,7 @@ section {
         overflow: hidden;
     }
     .portfolio .content .projects .project:hover .project-image {
-        -webkit-transform: scale(0.5);
+        -webkit-transform: scale(1);
         transform: scale(0.5);
     }
     .portfolio .content .projects .project:hover .project-title,
@@ -584,8 +584,8 @@ section {
         bottom: 0;
         -webkit-transition: transform 0.5s ease;
         transition: transform 0.5s ease;
-        -webkit-transform-origin: left top;
-        transform-origin: left top;
+        -webkit-transform-origin: lef top;
+        transform-origin: lef top;
         z-index: 3;
         overflow: hidden;
     }
