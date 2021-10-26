@@ -35,7 +35,7 @@ section {
 
 .hero {
     height: 100%;
-    background: url("https://source.unsplash.com/a2NRu2Wxa2o/");
+    background-image: url("/src/teclado-min.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -44,7 +44,7 @@ section {
     width: 300px;
     height: 300px;
     border-radius: 160px;
-    border: 10px solid #666;
+    border: 10px solid #fff;
 }
 
 .hero .content {
